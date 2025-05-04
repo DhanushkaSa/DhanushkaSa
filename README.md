@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dhanushka Sandaruwan</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Crafting clean & scalable digital experiences</h3>
 
-<!--
-**DhanushkaSa/DhanushkaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I Love Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,html,css,tailwind,nodejs,spring,dart,mysql,figma,git" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" height="50"/>
+</p>
+
+---
+
+### 💡 About Me
+
+- 🔭 I’m currently working on **Full Stack Web and Mobile Applications**
+- 🌱 I’m learning **AI & Cloud Technologies**
+- 💬 Ask me about **Java, React, Spring Boot, and Mobile App Dev**
+- 📫 How to reach me: **[https://www.linkedin.com/in/dhanushka-sandaruwan-149387227/]**
+- ⚡ Fun fact: I love solving real-world problems with code and design!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushkaSa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkaSa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanushka-sandaruwan-149387227/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhanushkaSa45@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Dhanushka-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- 📱 Building cross-platform apps with **Flutter & React Native**
+- 🌍 Contributing to open-source & startup ideas
+- 🎓 Learning **AI, Firebase, and DevOps**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=footer" />
+</p>
