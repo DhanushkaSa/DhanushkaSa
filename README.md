@@ -47,6 +47,9 @@
   <a href="mailto:dhanushkaSa45@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Dhanushka-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://dhanushka-tech.web.app/">
+    <img alt="Email" src="https://img.shields.io/badge/My%20portfolio-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
