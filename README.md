@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushkaSa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&token=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" />
+   <img src="https://github-readme-stats.vercel.app/api?username=DhanushkaSa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&token=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" />
 
 
 
