@@ -35,7 +35,7 @@
   <a href="mailto:dhanushkaSa45@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Dhanushka-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dhanushka-portfolio-2b10b.web.app/">
+  <a href="https://ephemeral-lamington-dacf84.netlify.app/">
     <img alt="portfolio" src="https://img.shields.io/badge/My%20portfolio-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
